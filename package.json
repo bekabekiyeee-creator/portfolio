@@ -1,0 +1,33 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Professional Portfolio Website - Beket Mitiku Amenu",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^14.0.0",
+    "typescript": "^5.0.0",
+    "@types/react": "^18.2.0",
+    "@types/node": "^20.0.0",
+    "tailwindcss": "^3.3.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "framer-motion": "^10.16.0",
+    "react-icons": "^4.12.0",
+    "emailjs-com": "^3.2.0",
+    "axios": "^1.6.0",
+    "clsx": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/typescript": "^2.0.0",
+    "postcss-import": "^15.1.0"
+  }
+}
